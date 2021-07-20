@@ -1,0 +1,2 @@
+# CardioGoodFitness
+Cardio Good Fitness is a retail store selling three different treadmills. We have been provided with customer data from previous purchases of these three treadmills.  Objective: Create customer profiles for each product model by performing preliminary data analysis. Generate a set of insights and recommendations to help the company target new customers.  Skills and Tools: Univariate analysis, Bi-Variate analysis, Python, Missing Value Treatment, Exploratory Data Analysis ( Variable Identification)
